@@ -6,6 +6,8 @@ Image retrieval in itself is a strenuous task. In recent years, there has been a
 To that end, the work presented herein is carried out with the goal of automating the process by enhancing the underlying methodologies, making them as efficient and lightweight as possible subject to the fundamental concepts of High-Performance Computing.
 
 ## Deployment (on Windows)
+Download [Dataset](https://academictorrents.com/collection/imagenet-lsvrc-2015)
+
 Download Project Code
 ```bash
 git clone https://github.com/tanvipenumudy/Parallelized-Image-Search-Engine.git
